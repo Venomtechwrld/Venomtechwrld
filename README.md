@@ -1,68 +1,5 @@
 <div align="center">
 
-
-
-<img src="assets/venom-tech-wrld-banner.png" alt="VENOM TECH WRLD technology brand banner" width="100%">
-
-
-
-### Independent builder of Telegram bots, mini apps, and WhatsApp utilities
-
-
-
-**I create and manage my projects, coding with JavaScript and Node.js.**
-
-
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-
-<img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-
-<img src="https://img.shields.io/badge/TELEGRAM_BOTS-18181B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram bots">
-
-<img src="https://img.shields.io/badge/WHATSAPP_TOOLS-18181B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp tools">
-
-
-
-[![Official Telegram Channel](https://img.shields.io/badge/TELEGRAM_CHANNEL-7C3AED?style=flat-square&logo=telegram&logoColor=white)](https://t.me/number_venom)
-
-[![Community Group](https://img.shields.io/badge/COMMUNITY_GROUP-0891B2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/venom_domain)
-
-[![WhatsApp Channel](https://img.shields.io/badge/WHATSAPP_CHANNEL-16A34A?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7vtQlDjiOXko7wwP0K)
-
-[![Email](https://img.shields.io/badge/EMAIL-DB2777?style=flat-square&logo=gmail&logoColor=white)](mailto:venomtechwrld@gmail.com)
-
-
-
-</div>
-
-
-
----
-
-
-
-## Featured projects
-
-
-
-<p>
-  
-<img src="assets/telegram-channel-avatar.jpg" width="48" alt="VENOM TECH WRLD Telegram profile picture">
-
-<strong> CUSTOM EMOJI & STICKER PACK BOT</strong><br>
-
-<img src="https://img.shields.io/badge/TELEGRAM_BOT-8B5CF6?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bot">
-
-</p>
-
-
-
-<a href="https://t.me/number_venom/2773"><img src="assets/custom-emoji-sticker-bot.jpg" width="100%" alt="Custom Emoji and Sticker Pack Bot image from the official Telegram channel"></a>
-
-
-
-
 <img src="assets/venom-tech-wrld-banner.png" alt="VENOM TECH WRLD technology brand banner" width="100%">
 
 ### Independent builder of Telegram bots, mini apps, and WhatsApp utilities
@@ -75,7 +12,7 @@
 <img src="https://img.shields.io/badge/WHATSAPP_TOOLS-18181B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp tools">
 
 [![Official Telegram Channel](https://img.shields.io/badge/TELEGRAM_CHANNEL-7C3AED?style=flat-square&logo=telegram&logoColor=white)](https://t.me/number_venom)
-[![Community Group](https://img.shields.io/badge/COMMUNITY_GROUP-0891B2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/venom_domain)
+[![Community Group](https://img.shields.io/badge/COMMUNITY_GROUP-0891B2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/venom_domain1)
 [![WhatsApp Channel](https://img.shields.io/badge/WHATSAPP_CHANNEL-16A34A?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7vtQlDjiOXko7wwP0K)
 [![Email](https://img.shields.io/badge/EMAIL-DB2777?style=flat-square&logo=gmail&logoColor=white)](mailto:venomtechwrld@gmail.com)
 
@@ -166,7 +103,7 @@ I create and manage these projects, coding with **JavaScript** and **Node.js**. 
 
 **Email:** [venomtechwrld@gmail.com](mailto:venomtechwrld@gmail.com)  
 **Telegram owner:** [@mr_darkvenom](https://t.me/mr_darkvenom)  
-**Telegram community:** [@venom_domain](https://t.me/venom_domain)  
+**Telegram community:** [@venom_domain1](https://t.me/venom_domain1)  
 **Official Telegram channel:** [@number_venom](https://t.me/number_venom)  
 **WhatsApp channel:** [Follow VENOM TECH WRLD](https://whatsapp.com/channel/0029Vb7vtQlDjiOXko7wwP0K)
 
