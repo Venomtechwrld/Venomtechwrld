@@ -4,10 +4,14 @@
 
 ### A team building Telegram bots, mini apps, and WhatsApp utilities
 
-**Our team builds and manages projects with JavaScript and Node.js.**
+**Our team builds and manages projects across popular technologies, including HTML, CSS, JavaScript (including MJS), Node.js, Java, Python, and more.**
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+<img src="https://img.shields.io/badge/JAVASCRIPT_%2F_MJS-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript and MJS">
 <img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/JAVA-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+<img src="https://img.shields.io/badge/PYTHON-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 <img src="https://img.shields.io/badge/TELEGRAM_BOTS-18181B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram bots">
 <img src="https://img.shields.io/badge/WHATSAPP_TOOLS-18181B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp tools">
 
@@ -98,7 +102,7 @@ Fetches Premium or custom emoji IDs, copies emoji details, reads IDs from emoji-
 
 ## Built and maintained by the VENOM TECH WRLD team
 
-We build and manage these projects with **JavaScript** and **Node.js**. Follow our channels for updates and community news.
+We build and manage these projects across popular technologies, including **HTML, CSS, JavaScript (including MJS), Node.js, Java, Python, and more**. Follow our channels for updates and community news.
 
 [![Telegram Channel](https://img.shields.io/badge/FOLLOW-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/number_venom)
 [![WhatsApp Channel](https://img.shields.io/badge/FOLLOW-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7vtQlDjiOXko7wwP0K)
